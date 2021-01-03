@@ -1,2 +1,2 @@
 # ginblog
-ginblog的后端部分
+gin 博客项目

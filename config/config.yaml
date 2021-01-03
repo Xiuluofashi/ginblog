@@ -1,0 +1,17 @@
+# debug 开发模式， release 生产模式
+server:
+  AppMode: release
+  HttpPort: 8080
+  JwtKey: 8591fdsf4ad
+database:
+  Db: mysql
+  DbHost: 127.0.0.1
+  DbPort: 3306
+  DbUser: root
+  DbPassWord: 123456
+  DbName: ginblog
+qiniu:
+  AccessKey: l_wkdSiGrXYk0vHr4VU4RG7syNClRWsxAthaGW64
+  SecretKey: rwQlBIeQO5O4sOIScRv7vj2lxkQigQfxvPKSUfzc
+  Bucket: ginblogimg-yml
+  QiniuSever: smalldragon.club

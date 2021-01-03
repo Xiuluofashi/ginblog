@@ -1,0 +1,172 @@
+/* Custom css */
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+.btn-outline-success {
+    color: #333333;
+    background-color: #F7F7F7;
+    background-image: none;
+    border-color: #333333;
+}
+
+.btn-outline-success:hover {
+    color: #FFFFFF;
+    background-color: #333333;
+    background-image: none;
+    border-color: #333333;
+}
+
+/* Intro */
+
+.intro-block{
+	margin-top: 3.5rem;
+	padding-bottom: 2rem;
+	color: #333333;
+}
+
+.intro-brand{
+	font-weight: 700;
+	font-size: 3rem;
+	background-color: #F7F7F7;
+	color: #333333;
+	letter-spacing: 1px;
+}
+
+/* Intro description */
+
+.content{
+	background-color: #FAFAFA;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #6B757C;
+}
+
+.intro-desc{
+	font-family: 'IBM Plex Sans', sans-serif;
+	padding-bottom: 2rem;
+	font-weight: 300;
+}
+
+.heading-desc{
+	padding-top: 1rem;
+}
+
+/* Links */
+
+a{
+	color: #FF6327;
+}
+
+a:hover{
+	color: #FF6327;
+}
+
+/* Card */
+
+.post-home{
+	padding-top: 2rem;
+}
+
+.card{
+	border-color: transparent;
+}
+
+.card-body{
+	padding-left: 0px;
+}
+
+/* Custom background */
+
+.graybackground{
+	background-color: #FAFAFA;
+}
+
+/* Blog page */
+
+.display-4{
+	font-size: 1.4rem;
+	font-weight: 500;
+}
+
+.blog-title{
+	font-size: 1.20rem;
+	text-decoration: none !important;
+}
+
+.blog-date{
+	color: #BDBDBD;
+}
+.blog-title:focus{
+	font-size: 1.20rem;
+	text-decoration: none !important;
+}
+
+.blog-row{
+	padding-bottom: 2rem;
+}
+
+/* Pagination */
+
+.pagination-block{
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+
+.page-link{
+	color: #FF6327;
+}
+
+.page-link:hover{
+	color: #FF6327;
+}
+
+/* Work page */
+
+.body-text-intro{
+	text-align: center;
+}
+
+.work-body-intro{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 1.14rem;
+}
+
+.work-card{
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+
+.card-body {
+    padding-left: 10px;
+}
+
+.card:hover {
+    background-color: #FAFAFA;
+}
+
+.aiinsights-block{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.padding-bottom{
+	padding-bottom: 2rem;
+}
+
+/* Learn page */
+
+.learn-body{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
